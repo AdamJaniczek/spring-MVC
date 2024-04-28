@@ -1,5 +1,6 @@
 package pl.com.itsystems.springmvc;
 
+import java.util.Formatter;
 import java.util.UUID;
 
 public class Product {
